@@ -5,14 +5,14 @@ Database Name : abc_test
 
 * Must be register or login
 
-*You can add categories using the endpoint : http://localhost:8000/api/insert_category        (Using postman)
+* You can add categories using the endpoint : http://localhost:8000/api/insert_category        (Using postman)
  (I have already entered fake data using Seeder)
 
-*After logging into the system, you have the ability to add a product through the insert product
+* After logging into the system, you have the ability to add a product through the insert product
 
-*Then you can view the all products through the view product option
+* Then you can view the all products through the view product option
 
-*It has the ability to delete and edit products
+* It has the ability to delete and edit products
 
 
 
