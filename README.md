@@ -1,4 +1,8 @@
 Database Name : abc_test
+Database dump : abc_test.sql
+
+first run this code on turminal : php artisan config:cache
+
 
 
 * Start the system 
