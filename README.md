@@ -1,3 +1,22 @@
+Database Name : abc_test
+
+
+* Start the system 
+
+* Must be register or login
+
+*You can add categories using the endpoint : http://localhost:8000/api/insert_category        (Using postman)
+ (I have already entered fake data using Seeder)
+
+*After logging into the system, you have the ability to add a product through the insert product
+
+*Then you can view the all products through the view product option
+
+*It has the ability to delete and edit products
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
